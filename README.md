@@ -12,4 +12,4 @@ pip install package_name
 ```
 3. Run cells to see the results.
 
-Alternatively, you can see results of the script without launching it by simply clicking it in repository.
+Alternatively, you can see results of the script without launching it by simply clicking it in the repository.
